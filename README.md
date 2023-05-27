@@ -1,6 +1,6 @@
 # RFM-Analysis-SQL-
 
-## Part 1: Customer Segmentation based on RFM Analysis:
+## Part 1: Customer Segmentation based on RFM Analysis
 
 Understanding customer behavior is crucial for targeting customers efficiently, and increasing revenue. To accomplish this, I worked on an online retail dataset and utilized pgAdmin for PostgreSQL. The customer segmentation was based on the RFM analysis concept, which focuses on three main factors:
 
@@ -26,7 +26,7 @@ The second part of the project involved analyzing the dataset to extract meaning
 
 
 
-🌍** Country-level Analysis:**
+🌍 **Country-level Analysis:**
 
 🔸 Identifying the country with the highest number of transactions.
 
