@@ -34,19 +34,23 @@ The second part of the project involved analyzing the dataset to extract meaning
 🔸Identifying the countries with customers who made the most transactions.
 
 🔸Identifying the countries with customers who contributed the most to revenue.
+
 🔸Identifying the product that sold the most in the country with the highest number of transactions.
 
 
 📦 **Product-level Analysis:**
 
 🔸Determining the overall best-selling product.
+
 🔸Identifying the product that is consistently the top seller across different countries.
+
 🔸Identifying the product that contributes the most to the revenue.
 
 
 ⏰ **Time-Level Analysis:**
 
 🔸Identifying the quarter with the highest number of transactions and the most significant revenue increase.
+
 
 
 📈 By applying customer segmentation and conducting in-depth data analysis, businesses can make informed decisions, develop effective marketing strategies. 
