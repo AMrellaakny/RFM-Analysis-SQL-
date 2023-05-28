@@ -26,9 +26,13 @@ The second part of the project involved analyzing the dataset to extract meaning
 🌍 **Country-level Analysis:**
 
 🔸 Identifying the country with the highest number of transactions.
+
 🔸Determining the country that contributes the most revenue.
+
 🔸Identifying the customer with the highest number of transactions.
+
 🔸Identifying the countries with customers who made the most transactions.
+
 🔸Identifying the countries with customers who contributed the most to revenue.
 🔸Identifying the product that sold the most in the country with the highest number of transactions.
 
