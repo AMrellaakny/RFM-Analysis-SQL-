@@ -33,13 +33,11 @@ The second part of the project involved analyzing the dataset to extract meaning
 🔸Identifying the product that sold the most in the country with the highest number of transactions.
 
 
-
 📦 **Product-level Analysis:**
 
 🔸Determining the overall best-selling product.
 🔸Identifying the product that is consistently the top seller across different countries.
 🔸Identifying the product that contributes the most to the revenue.
-
 
 
 ⏰ **Time-Level Analysis:**
